@@ -17,3 +17,7 @@ The figure of Rt has been uploaded here. The results indicated that Rt declined 
 (4). Liu Q, Ajelli M, Aleta A, Merler S, Moreno Y, Vespignani A. Measurability of the epidemic reproduction number in data-driven contact networks. Proc Natl Acad Sci 2018;115(50):12680.
 
 (5). Zhang J, Litvinova M, Wang W, et al. Evolving epidemiology and transmission dynamics of coronavirus disease 2019 outside Hubei province, China: a descriptive and modelling study. Lancet Infect Dis 2020;20:30230-9.
+
+The Rt calculation in Italy: https://epiforecasts.io/covid/posts/national/italy/
+The Rt calcultion in Germany: https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/17_20_SARS-CoV2_vorab.pdf?__blob=publicationFile
+The Rt calculation in US: https://rt.live
