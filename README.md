@@ -2,7 +2,7 @@
 
 In addition to the Wallinga and Teunis method (1) and the Cori method (2), we further estimated the Rt using other methods.
 
-To estimate Rt, we adjusted the methodology presented in references (3,4) to account for case importations. The details of the methods have been described in a recent
+To estimate Rt, we adjusted the methodology presented in references (3,4). The details of the methods have been described in a recent
 article (5). The code for the method is freely available at https://github.com/majelli/Rt.
 
 The figure of Rt has been uploaded here. The results indicated that Rt declined to below 1.0 on February 5. There are different methods to compute the reproduction number R with strengths and limitations, and the most important thing is to understand how the numbers were calculated and the interpretation of the results.
@@ -19,5 +19,7 @@ The figure of Rt has been uploaded here. The results indicated that Rt declined 
 (5). Zhang J, Litvinova M, Wang W, et al. Evolving epidemiology and transmission dynamics of coronavirus disease 2019 outside Hubei province, China: a descriptive and modelling study. Lancet Infect Dis 2020;20:30230-9.
 
 The Rt calculation in Italy: https://epiforecasts.io/covid/posts/national/italy/
+
 The Rt calcultion in Germany: https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/17_20_SARS-CoV2_vorab.pdf?__blob=publicationFile
+
 The Rt calculation in US: https://rt.live
