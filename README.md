@@ -22,4 +22,4 @@ The Rt calculation in Italy: https://epiforecasts.io/covid/posts/national/italy/
 
 The Rt calcultion in Germany: https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/Ausgaben/17_20_SARS-CoV2_vorab.pdf?__blob=publicationFile
 
-The Rt calculation in US: https://rt.live
+The Rt calculation in US: https://epiforecasts.io/covid/posts/national/united-states/; https://rt.live
